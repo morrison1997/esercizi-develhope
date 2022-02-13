@@ -1,0 +1,22 @@
+:root{
+    --black : #000;
+
+}
+
+:root {
+    --giallo: #fff424;
+    --larghezza: 100px;
+    --altezza: 100px;
+    --arrotondamento: 50px;
+}
+
+body { 
+    color: var(--black);
+}
+
+.titolo {
+    color: var(--giallo);
+    width: var(--altezza);
+    border-radius: var(--arrotondamento);
+    height: var(--altezza);
+}

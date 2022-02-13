@@ -1,0 +1,32 @@
+img{
+    border-radius: 40px;
+    width: 150px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 100px;
+   
+    
+    
+}
+a{
+    color:#2b2b2b;
+    
+}
+
+a:hover{
+    color:#2b2bb2 ;
+    transition-duration: 0.3s;
+}
+
+.items5{
+    width: 150px;
+}
+
+.logo{
+    width: 200px;
+    height: 100px;
+}
